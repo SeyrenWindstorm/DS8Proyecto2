@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|c:\\users\\manue\\downloads\\proyecto 2-20240605t203426z-001\\proyecto 2\\manuelm\\proyecto 2\\proyecto 2\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|solutionrelative:proyecto 2\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|c:\\users\\manue\\downloads\\proyecto 2-20240605t203426z-001\\proyecto 2\\manuelm\\proyecto 2\\proyecto 2\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|solutionrelative:proyecto 2\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|c:\\users\\manue\\downloads\\proyecto 2-20240605t203426z-001\\proyecto 2\\manuelm\\proyecto 2\\proyecto 2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|solutionrelative:proyecto 2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|c:\\users\\manue\\downloads\\proyecto 2-20240605t203426z-001\\proyecto 2\\manuelm\\proyecto 2\\proyecto 2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|solutionrelative:proyecto 2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|c:\\users\\manue\\downloads\\proyecto 2-20240605t203426z-001\\proyecto 2\\manuelm\\proyecto 2\\proyecto 2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|solutionrelative:proyecto 2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|c:\\users\\manue\\downloads\\proyecto 2-20240605t203426z-001\\proyecto 2\\manuelm\\proyecto 2\\proyecto 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D52CFAA1-0A35-46CB-A694-5BD27B9C8060}|Proyecto 2\\Proyecto 2.vbproj|solutionrelative:proyecto 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form6.vb",
+              "RelativeDocumentMoniker": "Proyecto 2\\Form6.vb",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form6.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 2\\Form6.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T22:01:51.548Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form5.vb",
+              "RelativeDocumentMoniker": "Proyecto 2\\Form5.vb",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form5.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 2\\Form5.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T22:01:49.632Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form4.vb",
+              "RelativeDocumentMoniker": "Proyecto 2\\Form4.vb",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form4.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 2\\Form4.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T22:01:46.102Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form3.vb",
+              "RelativeDocumentMoniker": "Proyecto 2\\Form3.vb",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form3.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 2\\Form3.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T22:01:42.863Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form2.vb",
+              "RelativeDocumentMoniker": "Proyecto 2\\Form2.vb",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 2\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T22:01:39.178Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form1.vb",
+              "RelativeDocumentMoniker": "Proyecto 2\\Form1.vb",
+              "ToolTip": "C:\\Users\\manue\\Downloads\\Proyecto 2-20240605T203426Z-001\\Proyecto 2\\ManuelM\\Proyecto 2\\Proyecto 2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 2\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-07T22:01:32.977Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

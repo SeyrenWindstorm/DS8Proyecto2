@@ -1,0 +1,34 @@
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.exe
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.pdb
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.xml
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.vbproj.AssemblyReference.cache
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form1.resources
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form2.resources
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form3.resources
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Resources.resources
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.vbproj.GenerateResource.cache
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.vbproj.CoreCompileInputs.cache
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.exe
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.xml
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form4.resources
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form5.resources
+C:\Users\SeyrenSix\source\repos\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form6.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.exe
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.pdb
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.xml
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.vbproj.AssemblyReference.cache
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form1.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form2.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form3.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form4.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form5.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Form6.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Resources.resources
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.vbproj.GenerateResource.cache
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.vbproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.exe
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.xml
+C:\Users\manue\Downloads\Proyecto 2-20240605T203426Z-001\Proyecto 2\ManuelM\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.pdb
